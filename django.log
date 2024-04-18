@@ -4,3 +4,16 @@ Watching for file changes with StatReloader
 "GET / HTTP/1.1" 200 56
 "GET /about/ HTTP/1.1" 200 53
 /home/applepie/STUDENT/Django/Django_hw1/homework1/homework1/settings.py changed, reloading.
+About page accessed
+About page accessed
+About page accessed
+About page accessed
+Watching for file changes with StatReloader
+About page accessed
+"GET /about/ HTTP/1.1" 200 53
+About page accessed
+"GET /about/ HTTP/1.1" 200 53
+About page accessed
+"GET /about/ HTTP/1.1" 200 53
+About page accessed
+"GET /about/ HTTP/1.1" 200 53
